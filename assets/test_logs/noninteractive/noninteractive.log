@@ -1,0 +1,55 @@
+(node:17481) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+Started with the following options:
+{
+  debug: true,
+  mitmIp: '10.0.3.1',
+  autoAccess: true,
+  autoAccessCache: 5000,
+  maxAttemptsPerConnection: 6,
+  sshServerIdentifier: 'SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2',
+  containerMountPathPrefix: '/var/lib/lxc',
+  containerMountPathSuffix: 'rootfs/',
+  loggingAttackerStreams: '/home/student/MITM/logs/session_streams',
+  loggingAuthenticationAttempts: '/home/student/MITM/logs/authentication_attempts',
+  loggingLogins: '/home/student/MITM/logs/logins',
+  loggingLogouts: '/home/student/MITM/logs/logouts',
+  loggingKeystrokes: '/home/student/MITM/logs/keystrokes',
+  containerName: 'bank_high_high_1729878168',
+  containerIp: '10.0.3.135',
+  mitmPort: 64645,
+  autoAccessFixed: 1
+}
+2024-10-25 13:43:23.958 - [Info] MITM Version: 2
+2024-10-25 13:43:23.960 - [Info] Auto Access Enabled: true
+2024-10-25 13:43:23.960 - [Debug] [Init] Auto Access Theshold Achieved: false
+2024-10-25 13:43:23.969 - [Info] SSH man-in-the-middle server for 10.0.3.135 listening on 10.0.3.1:64645
+2024-10-25 16:11:55.333 - [Debug] [Connection] Attacker connected: 10.175.109.119 | Client Identification: SSH-2.0-OpenSSH_for_Windows_9.5
+2024-10-25 16:12:26.264 - [Debug] [Connection] Attacker connected: 10.175.109.119 | Client Identification: SSH-2.0-OpenSSH_for_Windows_9.5
+2024-10-25 16:12:27.637 - [Debug] [Auth] Attacker 10.175.109.119 trying to authenticate with 'none'
+2024-10-25 16:12:27.637 - [Debug] [Auth] Attacker authentication error: No authentication method provided
+2024-10-25 16:12:28.575 - [Debug] [Auth] Attacker 10.175.109.119 trying to authenticate with 'password'
+2024-10-25 16:12:28.576 - [Debug] [Auto Access] Attacker: 10.175.109.119, Threshold: 1, Attempts: 1
+2024-10-25 16:12:28.576 - [Debug] [Auto Access] Compromising the honeypot
+2024-10-25 16:12:28.576 - [Debug] [Auto Access] Adding the following credentials: 'inavo:l'
+2024-10-25 16:12:28.711 - [Debug] [Auto Access] Auto-access is now disabled for the remainder of this MITM server instance
+2024-10-25 16:12:28.713 - [Debug] [Auth] Valid credentials - Password Authentication
+2024-10-25 16:12:28.713 - [Debug] [LXC] Attempting to connect to the honeypot: 10.0.3.135
+2024-10-25 16:12:28.776 - [Debug] [LXC-Auth] Attacker authenticated and is inside container
+2024-10-25 16:12:28.910 - [Debug] [EXEC] Noninteractive mode attacker command: ls
+2024-10-25 16:12:28.976 - [Debug] [Connection] Attacker closed connection
+2024-10-25 16:12:28.984 - [Debug] [LXC] Container's OpenSSH server ended connection
+2024-10-25 16:12:28.986 - [Debug] [LXC] Container's OpenSSH server closed connection
+Name:           bank_high_high_1729878168
+State:          RUNNING
+PID:            15584
+IP:             10.0.3.135
+CPU use:        23.34 seconds
+BlkIO use:      142.52 MiB
+Memory use:     313.08 MiB
+KMem use:       24.15 MiB
+Link:           vethF4DMUA
+ TX bytes:      113.10 KiB
+ RX bytes:      19.50 MiB
+ Total bytes:   19.61 MiB
+{"level":"error","message":"Forever detected script was killed by signal: SIGKILL"}

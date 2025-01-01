@@ -1,0 +1,143 @@
+[
+    {
+        "username": "jessicasnyder",
+        "password_hash": "1bf5bf3136cd6851d63ad48bacf04bbf2f242c02845bab1580da95e5583fc76d",
+        "name": "Gina Roberts",
+        "address": "2158 Parks Hollow\nJaredport, NC 93403",
+        "phone_number": "(745)709-2531",
+        "email_address": "fake_jessicasnyder@example.com",
+        "age": 41,
+        "prior_purchases": [
+            "Fried Rice",
+            "Grilled Salmon",
+            "BBQ Ribs",
+            "Lemonade",
+            "Vegetable Stir Fry"
+        ]
+    },
+    {
+        "username": "xparker",
+        "password_hash": "9a04ddaeb4f275bbc1f462aee4e7db577df9aa6f3670a9b273266276c7454a1b",
+        "name": "Robert Lyons",
+        "address": "16532 Emily Mills Apt. 436\nJostad, MT 02181",
+        "phone_number": "781-895-3309x4985",
+        "email_address": "fake_xparker@example.com",
+        "age": 53,
+        "prior_purchases": [
+            "BBQ Ribs",
+            "Lemonade",
+            "Spaghetti Carbonara",
+            "Cheeseburger",
+            "Vegetable Stir Fry"
+        ]
+    },
+    {
+        "username": "markthompson",
+        "password_hash": "51df7e31497ba7f12fa24e80f4089f67893209acdb896a9e2dabf31d59a8dd23",
+        "name": "Donald Potts",
+        "address": "57812 Justin Rapids Suite 846\nEast Paulachester, ME 28286",
+        "phone_number": "(741)378-9831",
+        "email_address": "fake_markthompson@example.com",
+        "age": 36,
+        "prior_purchases": [
+            "Vegetable Stir Fry",
+            "Spaghetti Carbonara"
+        ]
+    },
+    {
+        "username": "xwood",
+        "password_hash": "3adf6b81a13ee8ee8b689424ae0401071dcf9a43548d59418dd84639ca150c4e",
+        "name": "Christopher Davis",
+        "address": "8682 David Lane\nNew Thomaschester, WY 97872",
+        "phone_number": "(970)415-9158x623",
+        "email_address": "fake_xwood@example.com",
+        "age": 63,
+        "prior_purchases": [
+            "Chicken Tacos",
+            "Chocolate Cake",
+            "Beef Tacos",
+            "Margarita",
+            "Spaghetti Carbonara"
+        ]
+    },
+    {
+        "username": "pgreen",
+        "password_hash": "6137579257bc53281c75972e8ec1437ea03a8398acb259509abca3691ef4c08e",
+        "name": "Cindy Banks",
+        "address": "481 Rice Land Apt. 877\nFranklinfurt, FL 96516",
+        "phone_number": "717.763.6053x4310",
+        "email_address": "fake_pgreen@example.com",
+        "age": 33,
+        "prior_purchases": [
+            "Margherita Pizza",
+            "Vegetable Stir Fry"
+        ]
+    },
+    {
+        "username": "rdavidson",
+        "password_hash": "90a2cd1ca7ba9dcb0eceec6760a93e180cc20ec6cec7a7d5efeabb3a148f3a19",
+        "name": "Katherine Rivera",
+        "address": "8979 Hernandez Ville\nEast Kelly, VT 86137",
+        "phone_number": "874-603-8509x02142",
+        "email_address": "fake_rdavidson@example.com",
+        "age": 50,
+        "prior_purchases": [
+            "Margarita",
+            "Lemonade",
+            "Grilled Salmon",
+            "Pasta Primavera",
+            "Chicken Tacos"
+        ]
+    },
+    {
+        "username": "james68",
+        "password_hash": "60f1e6ddfd37dae1d0517ad1961414f76bea07c8dc0c1ff7ca7e0bdfcaedf31c",
+        "name": "Marco Fernandez",
+        "address": "2780 Melton Via\nDuncanborough, NM 59917",
+        "phone_number": "462-283-1708x97723",
+        "email_address": "fake_james68@example.com",
+        "age": 59,
+        "prior_purchases": [
+            "Grilled Salmon",
+            "Chocolate Cake",
+            "Chicken Tacos"
+        ]
+    },
+    {
+        "username": "jonesdouglas",
+        "password_hash": "1d21a2e76b15787f8f6557df749412ee36161cb1547a51ffe88d0908acbb8e2d",
+        "name": "Ashley Holland",
+        "address": "PSC 3694, Box 4457\nAPO AA 52586",
+        "phone_number": "(536)220-6363x507",
+        "email_address": "fake_jonesdouglas@example.com",
+        "age": 57,
+        "prior_purchases": [
+            "Beef Tacos"
+        ]
+    },
+    {
+        "username": "zvasquez",
+        "password_hash": "028afbf59f46883abf05e5883eb0d6b5bdbbbe1055bfbdcead2a786aedd7da06",
+        "name": "Christopher Snyder",
+        "address": "38889 Velez Plains\nMaysfurt, LA 04785",
+        "phone_number": "(323)334-2626x8291",
+        "email_address": "fake_zvasquez@example.com",
+        "age": 25,
+        "prior_purchases": [
+            "Fish and Chips"
+        ]
+    },
+    {
+        "username": "npatel",
+        "password_hash": "30392f25a4fbb0dac039f4d072b23266c6c96f4a2b741a73b41b88a969733b4e",
+        "name": "Matthew Miller",
+        "address": "1464 Curtis Way Suite 719\nPhillipfurt, MA 92357",
+        "phone_number": "001-545-503-7861x35130",
+        "email_address": "fake_npatel@example.com",
+        "age": 62,
+        "prior_purchases": [
+            "Chocolate Cake",
+            "Vegetable Stir Fry"
+        ]
+    }
+]

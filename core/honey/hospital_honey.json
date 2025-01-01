@@ -1,0 +1,198 @@
+[
+    {
+        "name": "Ronald Reed",
+        "age": 42,
+        "sex": "Female",
+        "medical_history": [
+            "Arthritis",
+            "Cancer",
+            "COPD"
+        ],
+        "billing_information": {
+            "billing_ID": "c1e26ab6-6fed-4d6b-9fad-8f476bc1ffba",
+            "total_amount": 1299.26,
+            "outstanding_balance": 2143.45
+        },
+        "address": "PSC 9180, Box 8840\nAPO AA 36777",
+        "insurance_information": {
+            "insurance_company": "Patel Group",
+            "policy_number": "4842eac3-a361-4aba-9490-fbf22ca6590b"
+        }
+    },
+    {
+        "name": "Cheyenne Young",
+        "age": 91,
+        "sex": "Female",
+        "medical_history": [
+            "Asthma",
+            "Hypertension"
+        ],
+        "billing_information": {
+            "billing_ID": "22cd3835-b314-4125-9bfa-88e2664d1a55",
+            "total_amount": 4631.53,
+            "outstanding_balance": 1715.48
+        },
+        "address": "22801 David Mountains Suite 740\nLake Barbarabury, AR 21808",
+        "insurance_information": {
+            "insurance_company": "Alvarez PLC",
+            "policy_number": "ae1a292a-e1c5-481d-a559-f2b1ae69f3c7"
+        }
+    },
+    {
+        "name": "Nancy Diaz",
+        "age": 100,
+        "sex": "Female",
+        "medical_history": [
+            "Hypertension",
+            "Cancer",
+            "Migraine"
+        ],
+        "billing_information": {
+            "billing_ID": "ccb5fea8-e5f4-4b6c-906b-8a57cfd4bddd",
+            "total_amount": 6738.32,
+            "outstanding_balance": 3455.12
+        },
+        "address": "6071 Nancy Lock\nWest Kevin, DE 37793",
+        "insurance_information": {
+            "insurance_company": "Miller, Patterson and George",
+            "policy_number": "cc4a03b2-6254-46b4-8e17-4f009035f57f"
+        }
+    },
+    {
+        "name": "Christina Baker",
+        "age": 93,
+        "sex": "Female",
+        "medical_history": [
+            "Asthma"
+        ],
+        "billing_information": {
+            "billing_ID": "d0d108a3-607d-403c-b727-c005e75f47bb",
+            "total_amount": 8801.2,
+            "outstanding_balance": 27.05
+        },
+        "address": "8409 Eddie Skyway Apt. 040\nTimothyton, KY 16945",
+        "insurance_information": {
+            "insurance_company": "Hayes Group",
+            "policy_number": "3dfac242-7d2b-4767-be15-786e2a5e2d63"
+        }
+    },
+    {
+        "name": "Sandra Hughes",
+        "age": 90,
+        "sex": "Male",
+        "medical_history": [
+            "Anxiety",
+            "Asthma",
+            "Depression"
+        ],
+        "billing_information": {
+            "billing_ID": "9179e8fd-6f5f-44fb-8af3-8e684c764f12",
+            "total_amount": 5785.78,
+            "outstanding_balance": 2522.02
+        },
+        "address": "7355 Hodge Ville Apt. 248\nPort Kevin, AK 95826",
+        "insurance_information": {
+            "insurance_company": "Graham, Smith and Bean",
+            "policy_number": "8a521373-5722-4eee-a54f-f8df0c0d025d"
+        }
+    },
+    {
+        "name": "Andrea Zavala",
+        "age": 92,
+        "sex": "Male",
+        "medical_history": [
+            "Kidney Stones",
+            "Migraine"
+        ],
+        "billing_information": {
+            "billing_ID": "3d017feb-dd03-4edb-baa1-ff81f14835c6",
+            "total_amount": 4179.3,
+            "outstanding_balance": 4137.07
+        },
+        "address": "6434 Jeffrey Rapids\nNorth Terriport, PW 84372",
+        "insurance_information": {
+            "insurance_company": "Delacruz Group",
+            "policy_number": "6a478ba7-f6bc-45d7-89e3-d6fdc97aeb07"
+        }
+    },
+    {
+        "name": "Casey Mckenzie",
+        "age": 85,
+        "sex": "Male",
+        "medical_history": [
+            "Hypertension",
+            "Depression",
+            "Anxiety"
+        ],
+        "billing_information": {
+            "billing_ID": "f7e72c22-cea9-4332-8b81-2877555bcf87",
+            "total_amount": 6592.61,
+            "outstanding_balance": 4105.43
+        },
+        "address": "90592 Alexander Circle Suite 666\nNew Leonard, VI 82679",
+        "insurance_information": {
+            "insurance_company": "Ortiz Group",
+            "policy_number": "0528a2f8-30b6-4772-b7c5-e601e862bf55"
+        }
+    },
+    {
+        "name": "John Webster",
+        "age": 16,
+        "sex": "Female",
+        "medical_history": [
+            "Cancer",
+            "COPD",
+            "Diabetes"
+        ],
+        "billing_information": {
+            "billing_ID": "03155183-56ba-4e2f-87e3-7f0018eaca43",
+            "total_amount": 1990.91,
+            "outstanding_balance": 4017.47
+        },
+        "address": "75562 Austin Avenue\nMartinezmouth, NH 12886",
+        "insurance_information": {
+            "insurance_company": "Cabrera-Gutierrez",
+            "policy_number": "86996315-b65c-48b9-92d5-2bd486302a16"
+        }
+    },
+    {
+        "name": "Mark Hudson",
+        "age": 80,
+        "sex": "Male",
+        "medical_history": [
+            "COPD",
+            "None",
+            "Anxiety"
+        ],
+        "billing_information": {
+            "billing_ID": "55e06ae8-c8ba-4143-adcd-162f3b7759cd",
+            "total_amount": 863.0,
+            "outstanding_balance": 3915.75
+        },
+        "address": "486 Robert Roads\nJuliachester, VA 92605",
+        "insurance_information": {
+            "insurance_company": "Willis, Ramirez and Lopez",
+            "policy_number": "386475c4-314c-4b9f-b89a-b08c33335779"
+        }
+    },
+    {
+        "name": "Amanda Lee",
+        "age": 84,
+        "sex": "Female",
+        "medical_history": [
+            "None",
+            "Migraine",
+            "Asthma"
+        ],
+        "billing_information": {
+            "billing_ID": "d15762e6-ce82-4108-bc04-6582f47db6ec",
+            "total_amount": 9135.11,
+            "outstanding_balance": 80.11
+        },
+        "address": "USNV Long\nFPO AE 53836",
+        "insurance_information": {
+            "insurance_company": "Petersen, Boyer and Reeves",
+            "policy_number": "d4ec3729-8001-413a-a2b6-7e913cffed3c"
+        }
+    }
+]
