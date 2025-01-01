@@ -1,4 +1,4 @@
-from utils.constants import HOSTNAME, USERNAME, PASSWORD, PORT
+from constants import HOSTNAME, USERNAME, PASSWORD, PORT
 
 from scp import SCPClient
 import paramiko

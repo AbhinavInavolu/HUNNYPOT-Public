@@ -1,4 +1,4 @@
-from utils.constants import GEO_IP_DATABASE
+from constants import GEO_IP_DATABASE
 
 import geoip2.database
 import ipaddress

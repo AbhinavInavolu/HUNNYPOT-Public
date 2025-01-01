@@ -1,6 +1,6 @@
 from utils.ip_utils import lookup_ip
 from utils.geo_utils import haversine
-from utils.constants import CORRELATION_THRESHOLD
+from constants import CORRELATION_THRESHOLD
 
 import matplotlib.pyplot as plt
 import pandas as pd

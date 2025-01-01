@@ -1,4 +1,4 @@
-from utils.constants import WORLD_MAP, WORLD_CITIES_CSV
+from constants import WORLD_MAP, WORLD_CITIES_CSV
 from utils.ip_utils import lookup_ip
 from utils.geo_utils import get_city_name
 

@@ -1,7 +1,7 @@
 import requests
 from analysis.map import create_map
 from utils.file_utils import dump_json, dump_text
-from utils.constants import *
+from constants import *
 
 from collections import defaultdict
 from operator import itemgetter

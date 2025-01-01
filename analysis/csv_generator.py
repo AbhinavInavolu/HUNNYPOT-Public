@@ -1,4 +1,4 @@
-from utils.constants import ALL_CSV, UNIQUE_CSV
+from constants import ALL_CSV, UNIQUE_CSV
 
 import csv
 

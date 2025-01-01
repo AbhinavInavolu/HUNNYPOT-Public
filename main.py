@@ -1,7 +1,7 @@
 from utils.install_requirements import install_requirements
 from utils.file_utils import extract_zip
-from utils.constants import *
-from core.ssh_manager import connect_ssh, zip_backup, download_zips, remove_remote_zips
+from constants import *
+from utils.ssh_utils import connect_ssh, zip_backup, download_zips, remove_remote_zips
 from analysis.log_parser import parse_logs
 from analysis.csv_generator import generate_csv_reports
 from analysis.attack_analyzer import parse_attacks_data

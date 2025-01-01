@@ -1,4 +1,4 @@
-from utils.constants import *
+from constants import *
 from utils.ip_utils import is_private_ip
 from utils.file_utils import dump_json
 
