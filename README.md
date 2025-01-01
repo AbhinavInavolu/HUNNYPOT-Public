@@ -1,6 +1,6 @@
 # HUNNYPOT
 
-A honeypot project designed to collect and analyze attacker behavior. 
+A honeypot project designed to collect and analyze attacker behavior. Sensitive information has been hidden. 
 
 ## Description
 
